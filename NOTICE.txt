@@ -1,0 +1,109 @@
+MINE BOMBERS 3.11 REMAKE AND LEVEL EDITOR
+Unofficial fan project. Not affiliated with or endorsed by Skitso Productions.
+
+1. This project
+   Remake source code, the level editor and the new graphics of the remake
+   were created by DarkSoL (Discord: darksol41).
+   This is a free, non-commercial fan project.
+   All rights reserved. Free to play and share unmodified; not for sale.
+
+2. The original game
+   Mine Bombers is copyright Skitso Productions. All credit for the original
+   game design, graphics, sounds, music and levels belongs to its authors:
+   Antti Haapakoski (programming), Teppo Lahtinen (graphics),
+   Mike Rophone (sounds), Olli Attila (music),
+   Jussi Vainionpaa (GUS routine).
+   Nothing in this notice grants any rights to the original game or its files.
+
+3. Original game files
+   This release includes data files of Mine Bombers 3.11, which remain
+   the property of Skitso Productions.
+   The freeware release of the original game carries this statement in
+   its FILE_ID.DIZ (dated 27 December 2001):
+     "Mine Bombers 3.11 Registered version
+      FREEWARE VERSION! MAY BE DISTRIBUTED"
+   The game's own history file (HISTORIA.TXT) records the same release:
+     "31.12.2001 Rekisteroity versio julkaistu freewarena"
+     (the registered version released as freeware).
+   The data files are included only so that the game can be played as it
+   was. Nothing else from the original release is claimed by this project.
+
+4. Graphics of the remake
+   a) Recoloured original graphics (art/remake). The drawing is Skitso
+      Productions'; only the colours were changed by DarkSoL:
+   armor_icon, bag_of_mixture_tile, basalt_edge_b, basalt_edge_l,
+   basalt_edge_r, basalt_edge_t, blaster_tile, bomb_eater_mon,
+   bone_golem_mon, chrome_bag_tile, chrome_oxide_tile, cobalt_crust_tile,
+   cobalt_slag_tile, cyborg_mon, dangerous_box_tile, fasthopper_bomb_tile,
+   foam_bag_tile, glitch_bomb_tile3, gold_hoarder_mon,
+   grenade_launcher_tile, gunpowder_tile, kamikaze_mon, lava_edge_b,
+   lava_edge_l, lava_edge_r, lava_edge_t, metal_container_tile, mimic_mon,
+   mushroom_bomb_icon, mushroom_bomb_tile, mutant_mon, nuclear_waste_icon,
+   nuclear_waste_tile, nuclear_waste_tile2, obsidian_tile, obsidian_tile2,
+   obsidian_tile3, ooze_mon, petrol_edge_b, petrol_edge_l, petrol_edge_r,
+   petrol_edge_t, refill_digger_icon, refill_digger_tile, rock_worm_mon,
+   saboteur_mon, sand_bag_tile, soldier_mon, splitter_mon,
+   treasure_golem_mon, tungsten_bag_tile, tungsten_crust_tile,
+   unknown_barrel_icon, unknown_barrel_tile, water_edge_b, water_edge_l,
+   water_edge_r, water_edge_t, zombie_mon
+
+   b) Edited original graphics, or pictures put together from original
+      graphics (art/remake). The base is Skitso Productions'; the changes
+      are DarkSoL's:
+   bag_of_mixture_icon, blaster_icon, chrome_bag_icon, cobalt_slag_icon,
+   congratu_custom, dud_icon, fasthopper_bomb_icon, firework_mortar_icon,
+   foam_bag_icon, glitch_bomb_icon, glitch_bomb_tile, glitch_bomb_tile2,
+   gunpowder_bag_icon, info_shapes, info_tools, info_weapons1,
+   info_weapons2, main_menu, mode_adventure, mode_battle, mode_classic,
+   mode_coop, mode_custom, mode_grail, mode_sandbox, mode_survival,
+   mode_team, monster_spawner_tile, rock_bomb_icon, rock_bomb_tile,
+   rock_bomb_tile2, rock_bomb_tile3, rock_bomb_tile_out, sand_bag_icon,
+   teleport_charge_icon, teleport_charge_tile, teleport_charge_tile2,
+   teleport_charge_tile3, training_dummy_tile, tungsten_bag_icon,
+   x_bomb_icon, x_bomb_tile
+
+   c) New graphics drawn for the remake (art/remake). Some of them sit on
+      the original floor or shop background of the game:
+   baby_nuke_icon, baby_nuke_tile, baby_nuke_tile2, baby_nuke_tile3,
+   baby_nuke_tile_out, basalt_tile, basalt_tile_v2, basalt_tile_v3,
+   basalt_tile_v4, cocoon_tile, donut_bomb_icon, donut_bomb_tile,
+   donut_bomb_tile2, donut_bomb_tile3, donut_bomb_tile_out, egg_item_icon,
+   egg_tile, firework_mortar_tile, firework_mortar_tile2,
+   firework_mortar_tile3, firework_mortar_tile_out, gamblers_charge_icon,
+   gamblers_charge_tile, gamblers_charge_tile2, gamblers_charge_tile3,
+   gamblers_charge_tile_out, gas_cylinder_icon, gas_cylinder_tile,
+   geode_tile, golden_bag_tile, grenade_launcher_icon, gunpowder_bag_tile,
+   key_tile, lava_canister_icon, lava_canister_tile, lava_tile,
+   matryoshka_icon, matryoshka_tile, matryoshka_tile2, matryoshka_tile3,
+   neutron_bomb_icon, neutron_bomb_tile, neutron_bomb_tile2,
+   neutron_bomb_tile3, neutron_bomb_tile_out, no_bomb_zone_tile,
+   petrol_canister_icon, petrol_canister_tile, petrol_tile,
+   security_door_icon, spider_mon, treasure_chest_tile, tunnel_rat_mon,
+   turret_mon, water_canister_icon, water_canister_tile, water_tile,
+   web_tile
+
+   d) Outside art/remake:
+   - The grail is a new sprite by DarkSoL, kept in the program code.
+   - Menus, panels, buttons, reports, maps and the editor are drawn by the
+     program in the style of the original screens.
+   - The small font of those panels is taken from the original INFO
+     screens; the digits 2, 6, 7, 8, 9 and the letter Z were added.
+   - The program icons (stone and gold "MB" letters) are new, drawn for the
+     remake.
+   - Everything not listed here is original Mine Bombers 3.11 graphics.
+
+5. Community levels (LEVELS, list in COMMUNITY.TXT)
+   Maps made by players of the original game, collected by DarkSoL.
+   Authors known from the Russian fan site minebombers.narod.ru: Alsoft,
+   Manakov, Masay & Frits, Petr Zloy, Raa2, Skirlan (GIKO Corporation),
+   Stinger, and authors the site listed as unknown. GREED.MNE is by DarkSoL.
+   Every map belongs to its author. Authors who want their name on a map,
+   or a map removed, can contact DarkSoL.
+
+6. No warranty
+   Provided as is, free of charge, without warranty of any kind.
+
+7. Rights holders
+   If you are one of the authors of Mine Bombers or of a community map, or
+   hold rights in anything included here, and want something changed or
+   removed, contact DarkSoL on Discord (darksol41) and it will be done.
